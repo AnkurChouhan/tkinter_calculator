@@ -1,5 +1,4 @@
-# 🧮 Tkinter Calculator
-A simple GUI-based calculator application built using **Python** and **Tkinter**. 
+# 🧮 Tkinter Calculator. 
 This project is part of a Python course assignment covering **Modules 10 & 11**, which focus on GUI development with Tkinter.
 
 ## 🚀 Features
